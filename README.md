@@ -12,9 +12,9 @@
  
 #### **Reminders** to myself on how to keep a growth mindset
  
- *-Take Challenges head on and to not run away from them.
+ * -Take Challenges head on and to not run away from them.
  
  -Give maximum effort in learning new things. 
  
- -Accept constructive criticism and learn from my mistakes.*
+ -Accept constructive criticism and learn from my mistakes. *
 
