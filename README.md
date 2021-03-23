@@ -5,7 +5,7 @@
 ## **Contact Information**
 carlosecantera@yahoo.com
 
-[Revisions]()
-[Growth Mindset]()
-[Coder's Computer]()
-[Learning Markdown]()
+[Revisions](revisions.md)
+[Growth Mindset](growthmindset)
+[Coder's Computer](Coders_Computer.md)
+[Learning Markdown](Learning_Markdown.md)
