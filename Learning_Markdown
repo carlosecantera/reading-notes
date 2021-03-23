@@ -1,1 +1,10 @@
 #Learning Markdown
+
+##Basics in Writing and Formatting in Syntax
+
+1.**Headings**- *Headings can be created by typing a "#" before you type your text. The more "#" you have the smaller the text and the less "#" you have the bigger the heading will be
+2.**Italics**- *Italics are made by using the "*" on each side of the text you are trying to use italics on. 
+3.**Strike Through**- If you want to strike through text you would put "~~" on both sides of the text. This will generate a line through any text betweent he "~~"
+4.**All Bold and Itlaics**- If you want your text to be in bold letters and also be in Italics you would use "***" before and after the text. 
+5.**Quoting**- If you want to quote something you could use the ">" and it will indent and generate the quote. 
+6.
