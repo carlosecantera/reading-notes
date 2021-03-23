@@ -5,28 +5,7 @@
 ## **Contact Information**
 carlosecantera@yahoo.com
 
-### **Growth Midset**
- 
- *-Growth Midset is the ability to learn without letting external influnences and negative midsets affect the way you intake, process, and interpret information.*
- [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
- 
-#### **Reminders** to myself on how to keep a growth mindset
- 
- -Take Challenges head on and to not run away from them.
- 
- -Give maximum effort in learning new things. 
- 
- -Accept constructive criticism and learn from my mistakes.
-
-##### **Cheat Sheet**
-
-- **echo** - *Helps you know what shell you are using*
-- **cd** - *Changes directories*
-- **ls** - *List*
-- **cd ..** - *moves back*
-- **cp** - *copy*
-- **mv** - *move*
-- **touch** - *creates files*
-- **mkdir** - *makes directory*
-
-
+[Revisions]()
+[Growth Mindset]()
+[Coder's Computer]()
+[Learning Markdown]()
