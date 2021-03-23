@@ -12,3 +12,13 @@ Choosing a text editor is a personal choice. Different text editors have differe
 
 -Extensions *Helps you do things you would otherwise not be able to do. They are plug-ins for your text editor.*
 
+##### **Cheat Sheet**
+
+- **echo** - *Helps you know what shell you are using*
+- **cd** - *Changes directories*
+- **ls** - *List*
+- **cd ..** - *moves back*
+- **cp** - *copy*
+- **mv** - *move*
+- **touch** - *creates files*
+- **mkdir** - *makes directory*
