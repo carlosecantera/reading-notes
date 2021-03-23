@@ -18,3 +18,14 @@ carlosecantera@yahoo.com
  
  -Accept constructive criticism and learn from my mistakes.
 
+##### **Cheat Sheet**
+
+- **echo** - *Helps you know what shell you are using*
+- **cd** - *Changes directories*
+- **ls** - *List*
+- **cd ..** - *moves back*
+- **cp** - *copy*
+- **mv** - *move*
+- **touch** - *creates files*
+- **mkdir** - *makes directory*
+- 
