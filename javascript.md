@@ -7,7 +7,8 @@
  * It is what causes a website to interact and behave.
 
  ## Layers
-  *There are three layers 
+  ###There are three layers 
+  
   - Content "html"
   - Presentation "CSS"
   - Behavior "JavaScript"
