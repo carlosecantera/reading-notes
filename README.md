@@ -11,6 +11,6 @@ carlosecantera@yahoo.com
 - [Learning Markdown](Learning_Markdown.md)
 - [html](html.txt)
 - [git intro](git_intro)
-- [Structure Websites with HTMLcode .
-](structurewebpageswithhtml)
+- [Structure Websites with HTML](structurewebpageswithhtml)
 - [Designing webpages with CSS](designingwebpageswithcss)
+- [How do I write JavaScript](javascript)
