@@ -11,4 +11,4 @@ carlosecantera@yahoo.com
 - [Learning Markdown](Learning_Markdown.md)
 - [html](html.txt)
 - [git intro](git_intro)
-- [Structure Websites with HTLM](structurewebsiteswithhtlm)
+- [Structure Websites with HTLM](structurewebpageswithhtml)
