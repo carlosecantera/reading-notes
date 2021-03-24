@@ -9,5 +9,6 @@ carlosecantera@yahoo.com
 - [Growth Mindset](growthmindset)
 - [Coder's Computer](Coders_Computer.md)
 - [Learning Markdown](Learning_Markdown.md)
-- [html](html)
+- [html](html.txt)
 - [git intro](git_intro)
+- [Structure Websites with HTLM](structurewebsiteswithhtlm)

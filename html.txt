@@ -15,3 +15,19 @@
 
 #### *HTML5 Notes*
 
+* Traditional HTML Layouts- Webpage authors use <div> element to group things together
+* New HTLM Layout- Allows you to divide up parts of the page.
+
+#### **Elements**
+
+*Elements*
+1. <header>
+2. <footer>
+3. <nav>
+4. <artile>
+5. <aside>
+6. <section>
+7. <hgroup>
+8. <figure>
+9. <figcaption>
+10. <div>

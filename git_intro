@@ -5,4 +5,11 @@
 2. Centalized Version Control - These This allows teams to work on a project together by storing them on a server
 3. Distributed Version Control - This allows a client to create a mirrored repo as a back up   
 
-### *
+### *Git*
+
+1. *Cloning* - git clone ( add the URL ) 
+
+
+#### *ACP*
+  **Remember to run git status after each ACP step.**
+  
