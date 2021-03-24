@@ -8,3 +8,13 @@
  -Declaration How the item is supposed to act.
 
 ###Color
+####Forground color
+
+1.RGB values- express colors in terms of red green and blue.
+2.Hex code- 6 digit code that represt the amount of red green and blue used.  You have to put a # befor typig this code.
+3.Color Names- 147 predefined color names 
+
+####Background color
+ 1.Using back ground color changes the default white color from the browser to the color you want using the background-color:
+
+ 
