@@ -12,3 +12,11 @@
   - Content "html"
   - Presentation "CSS"
   - Behavior "JavaScript"
+
+ 'use strict'
+
+ # Data types
+
+ * string data
+ * Boolean -if
+ * declaration - let
