@@ -16,3 +16,4 @@ carlosecantera@yahoo.com
 - [How do I write JavaScript](javascript.md)
 - [Computer architecture](computerarch.md)
 - [Scripts, Expressions, Operations, and Functions](scriptsexpressionsopsfunc.md)
+- [Operators and Loops](opsloops.md)
