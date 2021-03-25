@@ -7,13 +7,21 @@
  -!= -is not equal to
 
  -=== -Strict equal to
+
  -!== -Strict not equal to
+
  -> -Greater than
+
  -< -Less than
+
  ->= -Greater than or equal to
+
  -<= -Less than or equal to
+
  -&& -Logical and
+
  -|| -Logical or
+ 
  -! -Logical not
 
  ### Loops
