@@ -5,7 +5,7 @@
 - program rules
 - react to events
 
-*script is a series of instruction just like a handbook, instuction manual and recipe.*
+*script is a series of instruction just like a handbook, instruction manual and recipe.*
 ## Writing a script
 
 - To begin with you want to see the end goal.
@@ -19,7 +19,7 @@
 *Operators - Allow the ability to create a sigle value from one or more value in which expressions rely on.*
 *Arithmetic Operators*
 - Addition "+"
-- SUbraction "-"
+- Subraction "-"
 - Division "/"
 - Multiplication "*"
 - Increment "++"
