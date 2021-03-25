@@ -15,3 +15,4 @@ carlosecantera@yahoo.com
 - [Designing webpages with CSS](designingwebpageswithcss.md)
 - [How do I write JavaScript](javascript.md)
 - [Computer architecture](computerarch.md)
+- [Scripts, Expressions, Operations, and Functions](scriptsexpressionsopsfunc.md)
