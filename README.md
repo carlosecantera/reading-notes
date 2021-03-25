@@ -6,11 +6,12 @@
 carlosecantera@yahoo.com
 
 - [Revisions](revisions.md)
-- [Growth Mindset](growthmindset)
+- [Growth Mindset](growthmindset.md)
 - [Coder's Computer](Coders_Computer.md)
 - [Learning Markdown](Learning_Markdown.md)
-- [html](html.txt)
-- [git intro](git_intro)
-- [Structure Websites with HTML](structurewebpageswithhtml)
-- [Designing webpages with CSS](designingwebpageswithcss)
-- [How do I write JavaScript](javascript)
+- [html](html.md)
+- [git intro](git_intro.md)
+- [Structure Websites with HTML](structurewebpageswithhtml.md)
+- [Designing webpages with CSS](designingwebpageswithcss.md)
+- [How do I write JavaScript](javascript.md)
+- [Computer architecture](computerarch.md)
