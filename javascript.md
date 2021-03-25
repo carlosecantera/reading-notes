@@ -1,22 +1,24 @@
-# How do I write a script for my webpage 
+# How do I write a script for my webpage
 
-# JavaScript
+## JavaScript
+
 ## What is JavaScript
 
- * Is used for front end developement
- * It is what causes a website to interact and behave.
+ *Is used for front end developement
+ *It is what causes a website to interact and behave.
 
- ## Layers
-  ### There are three layers 
+### Layers
 
-  - Content "html"
-  - Presentation "CSS"
-  - Behavior "JavaScript"
+#### There are three layers
+
+- Content "html"
+- Presentation "CSS"
+- Behavior "JavaScript"
 
  'use strict'
 
- # Data types
+#### Data types
 
- * string data
- * Boolean -if
- * declaration - let
+*string data
+*Boolean -if
+*declaration -let
