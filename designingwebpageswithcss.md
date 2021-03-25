@@ -6,7 +6,7 @@
 2. CSS rules contain two parts, a selector and a declaration
  -Selector indicates what the rule applies to.
  -Declaration How the item is supposed to act.
-
+ 
 ###Color
 ####Forground color
 
