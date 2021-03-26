@@ -1,4 +1,4 @@
-# *Git Inro*
+# *Git Intro*
 
 ## *Version Control*
 1. Local Version Control - These are stored locally on your hard drive
@@ -12,4 +12,8 @@
 
 #### *ACP*
   **Remember to run git status after each ACP step.**
+
+  - Add git add .
+  - Commit git commit -m (edit) 
+  - Push git cush origin main
   
