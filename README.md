@@ -2,8 +2,11 @@
 # **Bio**
  *My name is Carlos De La Cantera. I live in Mill Creek Washington.  I am have been married for 3 years and Have an 11 year old son.  I currently work at Apple as a technician but would like to continue my growth within the company and that is why I am learning to code.*  
 
+
 ## **Contact Information**
 carlosecantera@yahoo.com
+
+# Code 102 Notes
 
 - [Revisions](revisions.md)
 - [Growth Mindset](growthmindset.md)
@@ -17,3 +20,5 @@ carlosecantera@yahoo.com
 - [Computer architecture](computerarch.md)
 - [Scripts, Expressions, Operations, and Functions](scriptsexpressionsopsfunc.md)
 - [Operators and Loops](opsloops.md)
+
+# Code 201 Reading Notes
