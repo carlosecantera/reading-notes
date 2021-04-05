@@ -22,3 +22,5 @@ carlosecantera@yahoo.com
 - [Operators and Loops](opsloops.md)
 
 # Code 201 Reading Notes
+
+## **Table of Contents 15 daily reading assignments**
