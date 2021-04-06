@@ -1,6 +1,6 @@
 # Computer Architecture and Logic
 
-## How ocmputers work
+## How computers work
 
 ### What makes a computer work
 
