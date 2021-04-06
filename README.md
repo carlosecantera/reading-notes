@@ -23,5 +23,7 @@ carlosecantera@yahoo.com
 
 # Code 201 Reading Notes
 
-- [Class-01.md]()
 ## **Table of Contents 15 daily reading assignments**
+
+- [Class-01 notes](Class-01.md)
+
