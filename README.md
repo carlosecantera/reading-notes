@@ -25,5 +25,5 @@ carlosecantera@yahoo.com
 
 ## **Table of Contents 15 daily reading assignments**
 
-- [Class-01 notes](Class-01.md)
+- [Class-01 notes](https://github.com/carlosecantera/reading-notes/blob/main/class-01.md)
 
