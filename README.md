@@ -27,3 +27,4 @@ carlosecantera@yahoo.com
 
 - [Class-01 notes](https://github.com/carlosecantera/reading-notes/blob/main/class-01.md)
 
+- [Class-02 notes](https://github.com/carlosecantera/reading-notes/blob/main/class-02.md)

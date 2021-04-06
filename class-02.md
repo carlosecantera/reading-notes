@@ -1,4 +1,4 @@
-#HTML
+# HTML
 
 # Chapter 2
 
@@ -113,13 +113,23 @@ To make sense of CSS you have to picture that all the information that is in eac
 ## Operators
 
  -== -is equal to
+
  -!= -is not equal to
+
  -=== -Strict equal to
+
  -!== -Strict not equal to
+
  -> -Greater than
+
  -< -Less than
+
  ->= -Greater than or equal to
+
  -<= -Less than or equal to
+
  -&& -Logical and
+
  -|| -Logical or
+ 
  -! -Logical not
